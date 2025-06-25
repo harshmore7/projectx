@@ -4,6 +4,7 @@ public class Main {
         int target = 45;
         System.out.println(binarySearch(nums, target));
     }
+    //merge conflict
     public static int binarySearch(int[] nums, int target){
         int left = 0;
         int right = nums.length -1;
