@@ -5,6 +5,7 @@ public class Main {
         System.out.println(binarySearch(nums, target));
     }
     //resolving merge conflict
+    //merge conflict
     public static int binarySearch(int[] nums, int target){
         int left = 0;
         int right = nums.length -1;
